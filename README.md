@@ -8,4 +8,4 @@ The functions for the API can be found in /src/hooks/useColorApi.js
 The php scripts can be found in /src/hooks/phpScripts (userName and password removed)
 
 ## Used WebHost Service for database
-https://databases.000webhost.com/
+https://www.000webhost.com/
